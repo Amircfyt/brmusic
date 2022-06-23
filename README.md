@@ -4,6 +4,8 @@ Please be sure to read the help file before installation to get acquainted with 
 
 Version number: 1.1
 
+This theme is powered by the default WordPress twenty twenty one theme.
+
 My Email: Cheraghi.2007@outlook.com
 
 Please follow me♡
